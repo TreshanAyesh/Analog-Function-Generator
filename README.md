@@ -11,8 +11,11 @@ Perera G.B.U. 190446F <br>
 This project covers from the circuit designing and simulation to building the actual product.. The device can generate Sin, square, triangle (symmetric), Sawtooth or Ramp and PWM with variable duty cycle. Waveform’s amplitude and frequency can be adjusted within 0- 10 V and 20Hz to 20kHz range as per required.
 <br/>
 
-<ins> Final Product </ins> <br/>
+<ins>Final Product </ins> <br/>
 
-<p>
-![FinalProduct](<https://user-images.githubusercontent.com/81402682/179168103-ac0c24ad-7d6e-400a-b34d-8f59fc7b49a1.png](https://user-images.githubusercontent.com/81402682/179168103-ac0c24ad-7d6e-400a-b34d-8f59fc7b49a1.png>)
-</p>
+![FinalProduct](https://user-images.githubusercontent.com/81402682/179170386-7c232653-96d1-4e3e-b281-11c993c65b95.png)
+
+
+
+
+
