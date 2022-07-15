@@ -7,8 +7,9 @@ Pathirana R.P.U.A. 190432J <br>
 Peirispulle T.A. 190443T <br>
 Perera G.B.U. 190446F <br>
 
-<br>
-This project covers from the circuit designing and simulation to building the actual product.. The device can generate Sin, square, triangle (symmetric), Sawtooth or Ramp and PWM with variable duty cycle. Waveform’s amplitude and frequency can be adjusted within 0- 10 V and 20Hz to 20kHz range as per required.<br/>
+
+This project covers from the circuit designing and simulation to building the actual product.. The device can generate Sin, square, triangle (symmetric), Sawtooth or Ramp and PWM with variable duty cycle. Waveform’s amplitude and frequency can be adjusted within 0- 10 V and 20Hz to 20kHz range as per required.
+<br/>
 
 <ins> Final Product </ins> <br/>
 
