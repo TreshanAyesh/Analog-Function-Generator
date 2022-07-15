@@ -12,4 +12,7 @@ This project covers from the circuit designing and simulation to building the ac
 
 <br>
 <ins> Final Producr </ins>
+<br>
+<p>
 ![FinalProduct](https://user-images.githubusercontent.com/81402682/179168103-ac0c24ad-7d6e-400a-b34d-8f59fc7b49a1.png)
+</p>
