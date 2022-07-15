@@ -1,8 +1,10 @@
-<div style="text-align: right"> Department of Electronic and Telecommunication Engineering  </div>
+<p align="center">
+   
+Department of Electronic and Telecommunication Engineering 
 
 University of Moratuwa 
 EN 2090– Laboratory Practice II 
-
+</p> 
 
 
 ## <ins> Analog-Function-Generator </ins>
