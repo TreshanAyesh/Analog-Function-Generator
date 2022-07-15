@@ -1,4 +1,4 @@
-<div style="text-align: center"> Department of Electronic and Telecommunication Engineering  </div>
+<div style="text-align: right"> Department of Electronic and Telecommunication Engineering  </div>
 
 University of Moratuwa 
 EN 2090– Laboratory Practice II 
